@@ -1,4 +1,4 @@
-﻿program auberge;
+﻿program triangle;
 
 uses crt;
 
